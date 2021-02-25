@@ -1,1 +1,1 @@
-https://github.com/AlexDerErste/BloodCraft/wiki
+https://github.com/AlexDerErste/BloodCraft/wiki/Language
